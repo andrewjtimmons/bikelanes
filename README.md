@@ -1,4 +1,4 @@
 # bikelanes
 Maps of bike lanes contrasted with car lanes
 
-Go to andrewjtimmons.github.io/bikelanes to see it live.
+Go to andrewjti mmons.github.io/bikelanes to see it live.
